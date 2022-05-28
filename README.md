@@ -1,1 +1,1 @@
-# Resturant-PizzaApp.github.io
+# ResturantPizzaApp.github.io
